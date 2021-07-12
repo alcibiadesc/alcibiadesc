@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Finanzas App](https://github.com/Alci6/finanzas)
 
-- 🌱 I’m currently learning **earning the best way to give value to the user**
+- 🌱 I’m currently learning **the best way to provide value to the user**
 
 - 💬 Ask me about **JAM, svelte, scrum, Kanban and Agile Mindset**
 
