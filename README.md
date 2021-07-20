@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the best way to provide value to the user**
 
-- 💬 Ask me about **JAM, svelte, scrum, Kanban and Agile Mindset**
+- 💬 Ask me about **JAM, Svelte, Scrum, Kanban and Agile Mindset**
 
 - 📫 How to reach me **https://www.linkedin.com/in/alcibiadesc/**
 
