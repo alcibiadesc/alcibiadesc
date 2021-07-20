@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alcibiades</h1>
 <h3 align="center">A passionate Agile Coach from Spain</h3>
 
-- 🔭 I’m currently working on [Finanzas App](https://github.com/Alci6/finanzas)
+- 🔭 I’m currently working on [GoFire.App](https://github.com/Alci6/gofire)
 
 - 🌱 I’m currently learning **the best way to provide value to the user**
 
