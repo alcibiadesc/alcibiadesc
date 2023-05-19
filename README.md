@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alcibiades</h1>
 <h3 align="center">A passionate Agile Coach from Spain</h3>
 
-- 🔭 I’m currently working on [GoFire 🔥](https://www.gofire.app) - MVP Released || [REPO](https://github.com/alcibiadesc/GoFire)
+- 🔭 I’m currently working on [dilema.](https://www.dilema.app/home)
 
 - 🌱 I’m currently learning **the best way to provide value to the user**
 
