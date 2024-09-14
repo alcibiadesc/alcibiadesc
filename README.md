@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JAM, Svelte, Scrum, Kanban and Agile Mindset**
 
-- 📫 How to reach me **https://www.linkedin.com/in/alci/**
+- 📫 How to reach me **https://www.linkedin.com/in/alci/** or **https://alci.dev**
 
 <h3 align="left">Connect with me in:</h3>
 <p align="left">
