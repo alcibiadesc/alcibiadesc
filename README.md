@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alcibiades</h1>
 <h3 align="center">A passionate Engineer Manager from Spain</h3>
 
-- 🔭 I’m currently working on [dilema.](https://www.dilema.app/home)
+- 🔭 I’m currently working on [happy balance.](https://github.com/alcibiadesc/happy-balance)
 
 - 🌱 I’m currently learning **the best way to provide value to the user**
 
